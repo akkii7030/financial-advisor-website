@@ -29,7 +29,7 @@ export default function Navbar() {
 
   const navLinks = [
     { name: "Home", href: "/" },
-    { name: "Aditi", href: "/about" },
+    { name: "About", href: "/about" },
     { name: "Services", href: "/services" },
     { name: "Team", href: "/team" },
     { name: "Contact", href: "/contact" },
@@ -45,7 +45,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center">
-            <span className="text-2xl font-bold text-blue-700">Javi Finanz</span>
+            <span className="text-2xl font-bold text-blue-700">Aditi Finanz</span>
           </Link>
 
           {/* Desktop Navigation */}

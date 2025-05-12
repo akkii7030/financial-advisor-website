@@ -8,7 +8,7 @@ import Footer from "../components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Javi Finanz Advisors Pvt. Ltd. | Financial Advisory Services",
+  title: "Aditi Finanz Advisors Pvt. Ltd. | Financial Advisory Services",
   description:
     "Secure your future with trusted financial expertise. We provide financial planning, investment advisory, tax consulting, and more.",
   generator: 'v0.dev'

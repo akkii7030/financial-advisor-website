@@ -17,7 +17,7 @@ export default function Hero() {
             Secure Your Future with Trusted Financial Expertise
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            At Javi Finanz Advisors, we provide personalized financial solutions to help you achieve your goals and
+            At Aditi Finanz Advisors, we provide personalized financial solutions to help you achieve your goals and
             build a secure financial future.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">

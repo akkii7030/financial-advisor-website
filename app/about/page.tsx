@@ -5,13 +5,13 @@ export default function AboutPage() {
   return (
     <div className="container mx-auto px-4 py-16 md:py-24">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-3xl md:text-4xl font-bold text-center mb-8">About Javi Finanz Advisors</h1>
+        <h1 className="text-3xl md:text-4xl font-bold text-center mb-8">About Aditi Finanz Advisors</h1>
 
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-blue-700">Our Story</h2>
             <p className="text-gray-700 mb-4">
-              Founded in February 2025, Javi Finanz Advisors Pvt. Ltd. was established with a clear vision: to provide
+              Founded in February 2025, Aditi Finanz Advisors Pvt. Ltd. was established with a clear vision: to provide
               transparent, client-focused financial advisory services that empower individuals and businesses to achieve
               their financial goals.
             </p>
@@ -23,7 +23,7 @@ export default function AboutPage() {
           <div className="relative h-64 md:h-80 rounded-lg overflow-hidden shadow-lg">
             <Image
               src="/placeholder.svg?height=400&width=600"
-              alt="Javi Finanz Advisors Office"
+              alt="Aditi Finanz Advisors Office"
               fill
               className="object-cover"
             />
@@ -101,7 +101,7 @@ export default function AboutPage() {
           </div>
           <div className="space-y-3">
             <p className="text-gray-700">
-              <span className="font-medium">Company Name:</span> Javi Finanz Advisors Private Limited
+              <span className="font-medium">Company Name:</span> Aditi Finanz Advisors Private Limited
             </p>
             <p className="text-gray-700">
               <span className="font-medium">Founded:</span> February 2025

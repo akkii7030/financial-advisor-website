@@ -8,19 +8,19 @@ export default function Testimonials() {
   const testimonials = [
     {
       quote:
-        "Javi Finanz Advisors transformed my approach to financial planning. Their personalized advice helped me create a solid investment strategy that aligns perfectly with my retirement goals.",
+        "Aditi Finanz Advisors transformed my approach to financial planning. Their personalized advice helped me create a solid investment strategy that aligns perfectly with my retirement goals.",
       author: "Rajesh Sharma",
       position: "Business Owner",
     },
     {
       quote:
-        "I was struggling with tax planning until I found Javi Finanz. Their team provided clear guidance that helped me optimize my tax strategy while ensuring full compliance with regulations.",
+        "I was struggling with tax planning until I found Aditi Finanz. Their team provided clear guidance that helped me optimize my tax strategy while ensuring full compliance with regulations.",
       author: "Priya Patel",
       position: "IT Professional",
     },
     {
       quote:
-        "The retirement planning services at Javi Finanz are exceptional. They took the time to understand my needs and created a comprehensive plan that gives me confidence about my financial future.",
+        "The retirement planning services at Aditi Finanz are exceptional. They took the time to understand my needs and created a comprehensive plan that gives me confidence about my financial future.",
       author: "Amit Desai",
       position: "Senior Manager",
     },
